@@ -155,18 +155,6 @@ header a:hover {
 
 
 /******************* HEADER INTOCABLE *******************/
-.contPuestoIMGGND {
-  position: absolute;
-  z-index: 500;
-  filter: opacity(11%);
-  display: flex;
-  width: 97%;
-  max-width:210px;
-}
-.contPuestoIMGGND img {
-  width: 100%;
-  object-fit: cover;
-}
 /*****TABS*****/
 /* --------------------------
    SECCIÓN DE TABS Y PREMIOS
@@ -926,5 +914,6 @@ footer {
   text-decoration: underline;
 
 }
+
 
 
