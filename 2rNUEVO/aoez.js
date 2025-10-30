@@ -1,1 +1,0 @@
-        window.addEventListener("DOMContentLoaded", (() => { const e = document.getElementById("contcontformcontainer"); e && (e.style.display = "none") }));
