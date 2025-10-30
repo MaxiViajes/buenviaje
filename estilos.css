@@ -161,6 +161,7 @@ header a:hover {
   filter: opacity(11%);
   display: flex;
   width: 97%;
+  max-width:210px;
 }
 .contPuestoIMGGND img {
   width: 100%;
@@ -925,4 +926,5 @@ footer {
   text-decoration: underline;
 
 }
+
 
