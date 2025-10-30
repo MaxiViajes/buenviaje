@@ -152,6 +152,17 @@ header a:hover {
   font-size: 1em;
   font-weight: bold;
 }
+.contPuestoIMGGND {
+  position: absolute;
+  z-index: 500;
+  filter: opacity(11%);
+  display: flex;
+  width: 97%;
+}
+.contPuestoIMGGND img {
+  width: 100%;
+  object-fit: cover;
+}
 
 /******************* HEADER INTOCABLE *******************/
 
@@ -912,4 +923,5 @@ footer {
 
 .footer-bottom a:hover {
   text-decoration: underline;
+
 }
