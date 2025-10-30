@@ -1,0 +1,1 @@
+const btns = document.querySelectorAll(".tab-btn"), contents = document.querySelectorAll(".tab-content");
