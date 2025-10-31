@@ -247,6 +247,12 @@ header a:hover {
     gap: 10px;
   }
 }
+@media (max-width:654px){
+  .premio-card {
+    width: 100%;
+    max-width: 388px;
+  }
+}
 .premio-card {
   background: #fffffff8;
   border-radius: 12px;
@@ -946,3 +952,4 @@ footer {
 .footer-bottom a:hover {
   text-decoration: underline;
 }
+
