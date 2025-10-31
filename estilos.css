@@ -185,6 +185,15 @@ header a:hover {
   border-radius: 28px;
   padding: 14px;
 }
+@media (max-width:525px){
+  .tabs-container{
+    width: 310px;
+    gap: 8px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+  }
+}
 
 /* Contenedor general del contenido */
 .tabs-content {
@@ -914,6 +923,7 @@ footer {
   text-decoration: underline;
 
 }
+
 
 
 
