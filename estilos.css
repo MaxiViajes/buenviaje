@@ -7,6 +7,7 @@
 body {
     background-color: #eff5fd;
   font-family: 'Poppins', sans-serif;
+  min-width: 360px;
 }
 
 .carta {
@@ -180,7 +181,7 @@ header a:hover {
 
 .tabs-section {
   margin: auto;
-  padding: 30px;
+  padding: 10px;
   background: linear-gradient(to right, rgb(31, 99, 145), rgb(44, 118, 168), rgb(53, 112, 151), rgb(36, 121, 177));
   background-position: center;
   background-repeat: no-repeat;
@@ -203,14 +204,15 @@ header a:hover {
   border-radius: 28px;
   padding: 14px;
 }
-@media (max-width:525px){
+@media (max-width:524px){
   .tabs-container{
-    width: 310px;
-    gap: 8px;
+    width: 98%;
+    gap: 2px;
     margin: auto;
     display: flex;
     justify-content: flex-start;
   }
+
 }
 /* Contenedor general del contenido */
 .tabs-content {
@@ -433,7 +435,11 @@ header a:hover {
     padding: 20px;
   }
 }
-
+@media (max-width:516px){
+  .tab-btn {
+    font-size: 0.6em;
+  }
+}
 /*****TABS*****/
 
 
@@ -940,7 +946,3 @@ footer {
 .footer-bottom a:hover {
   text-decoration: underline;
 }
-
-
-
-
