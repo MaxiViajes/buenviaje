@@ -212,7 +212,8 @@ header a:hover {
     display: flex;
     justify-content: flex-start;
   }
-
+  .contenidconttabscontainer {
+    width:273px; margin:auto;
 }
 /* Contenedor general del contenido */
 .tabs-content {
@@ -952,4 +953,5 @@ footer {
 .footer-bottom a:hover {
   text-decoration: underline;
 }
+
 
