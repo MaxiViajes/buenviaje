@@ -1,0 +1,28 @@
+Copyright (c) 2025 MaxiViajes. Todos los derechos reservados.
+
+Este sitio web, su código fuente, diseño, estructura, textos, contenido, imágenes propias, 
+logotipos y materiales asociados son propiedad exclusiva de MaxiViajes.
+
+Queda estrictamente prohibida la copia, modificación, distribución, publicación, 
+reutilización total o parcial de este código o contenido sin autorización expresa y por escrito del autor.
+
+El uso no autorizado podrá ser objeto de acciones legales conforme a las leyes de propiedad intelectual vigentes.
+
+Cualquier intento de suplantar la identidad del autor, 
+republicar este sitio con fines fraudulentos o usar su contenido para actividades ilícitas 
+será denunciado ante las autoridades competentes.
+
+El autor no se hace responsable por el uso indebido de copias no autorizadas o versiones falsificadas de este sitio web.
+
+Sitio oficial: https://maxiviajes.github.io/buenviaje/
+Contacto oficial: maxOzVM1@gmail.com
+
+---
+
+🖼️ Créditos de imágenes y recursos externos
+
+Algunas imágenes y recursos visuales utilizados en este sitio provienen de 
+[Pexels.com](https://www.pexels.com) y pertenecen a sus respectivos autores, 
+bajo la licencia libre de uso de Pexels.  
+No se reclama propiedad ni autoría sobre dichos recursos, 
+los cuales se emplean conforme a sus términos de uso.
