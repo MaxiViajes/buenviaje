@@ -214,6 +214,7 @@ header a:hover {
   }
   .contenidconttabscontainer {
     width:273px; margin:auto;
+    }
 }
 /* Contenedor general del contenido */
 .tabs-content {
@@ -953,5 +954,6 @@ footer {
 .footer-bottom a:hover {
   text-decoration: underline;
 }
+
 
 
