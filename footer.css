@@ -1,0 +1,128 @@
+/*******************************/
+/*******************************/
+
+/* Footer */
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+  background: #0a0a0a;
+  color: #fff;
+  padding: 50px 20px 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 40px;
+}
+
+.footer-logo img {
+  max-width: 110px;
+  margin-bottom: 10px;
+}
+
+.footer-logo p {
+  font-size: 14px;
+  color: #bbb;
+  margin-top: 5px;
+}
+
+.footer-links h4,
+.footer-contact h4 {
+  margin-bottom: 15px;
+  color: #00bcd4;
+  font-size: 18px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin: 8px 0;
+}
+
+.footer-links ul li a {
+  text-decoration: none;
+  color: #ccc;
+  transition: 0.3s;
+}
+
+.footer-links ul li a:hover {
+  color: #00bcd4;
+}
+
+.footer-contact p {
+  font-size: 14px;
+  margin: 6px 0;
+}
+
+.footer-contact i {
+  margin-right: 8px;
+  color: #00bcd4;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 12px;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #00bcd4;
+}
+
+.footer-whatsapp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whatsapp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  padding: 10px 20px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.whatsapp-btn:hover {
+  background: #1ebe5d;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #222;
+  padding-top: 15px;
+  font-size: 13px;
+  color: #999;
+}
+
+.footer-bottom a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.footer-bottom a:hover {
+  text-decoration: underline;
+}
